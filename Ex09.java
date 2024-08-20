@@ -16,10 +16,10 @@ public class Ex09 {
 					}else if(lotto.size() == 7){
 						System.out.println(" + Bonus: "+su);
 					}
-				}
+				}//if lotto.add(su)
 				
-			}
+			}//while
 			
-		}
-	}
-}
+		}//for
+	}//main
+}//Ex09
